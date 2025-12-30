@@ -25,7 +25,7 @@ The Witcher 3 with enhanced visuals is a modlist that overhauls lighting, and at
 #### General Utilities
 Preventing Major Meyhem
 
-Before installing SkyGround Chronicles, please complete the following steps:<br/>
+Before installing W3VO, please complete the following steps:<br/>
 [**.NET 8.0 SDK**](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.404-windows-x64-installer)
 .NET is a free, cross-platform, open-source developer platform for building many different types of applications. This is required for Synthesis and Scrambled Bugs to function properly.<br/>
 [.NET 8.0 SDK (v8.0.404) - Windows x64 Installer](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.404-windows-x64-installer)<br/>
@@ -50,7 +50,7 @@ You’ll also need to add the Wabbajack list folder to your antivirus exclusion 
 
 Larger Skyrim modlists require a significant amount of memory and running out of memory **will** result in crashes and other potential issues. 
 
-Due to SkyGround Chronicles's size and number of files required to be handled for the list, this step is **NOT** optional. **Regardless of how much RAM or VRAM you have, please do this step.**
+Due to W3VO's size and number of files required to be handled for the list, this step is **NOT** optional. **Regardless of how much RAM or VRAM you have, please do this step.**
 
  To set up your pagefile:
 
