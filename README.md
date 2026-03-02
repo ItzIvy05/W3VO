@@ -8,7 +8,7 @@
 
 #### Introduction
 
-The Witcher 3 with enhanced visuals is a modlist that overhauls lighting, and atmosphere while staying true to the game’s original style.
+The Witcher 3 with enhanced visuals is a modlist that overhauls lighting and atmosphere while staying true to the game’s original style.
 
 ### System Requirements
 
@@ -43,12 +43,11 @@ You’ll also need to add the Wabbajack list folder to your antivirus exclusion 
 <img src="https://i.imgur.com/raiU13r.png" />
 
 #### Few Other Small Tips
-1. Set your Skyrim language to English: Right click on your Skyrim in Steam > Click `Properties` > Click the drop down box next to `Language` > Set the language to English<br/>
-2. (Soft Requirement) A Nexus Premium account is recommended. Without Premium, you will need to manually click the `Slow Download` button for each mod.
+(Soft Requirement) A Nexus Premium account is recommended. Without Premium, you will need to manually click the `Slow Download` button for each mod.
 
 #### Pagefile and Crash Prevention
 
-Larger Skyrim modlists require a significant amount of memory and running out of memory **will** result in crashes and other potential issues. 
+Larger modlists and games in general these days require a significant amount of memory, and running out of memory **will** result in crashes and other potential issues. 
 
 Due to W3VO's size and number of files required to be handled for the list, this step is **NOT** optional. **Regardless of how much RAM or VRAM you have, please do this step.**
 
